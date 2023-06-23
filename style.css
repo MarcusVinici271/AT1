@@ -60,7 +60,7 @@ header {
   position: absolute;
   top: 150px;
   left: 100px;
-  background-image: url(/imagens/marcus.jpeg);
+  background-image: url(imagens/marcus.jpeg);
   width: 200px;
   height: 200px;
   border-radius: 50%;
